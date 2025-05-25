@@ -1,6 +1,6 @@
 🎬 Data Analysis Using Python Pandas (Movies Dataset)
 
-This repository contains a complete project on **data analysis using Python Pandas** with the `movies.csv` file. The analysis includes a variety of visualizations and a step-by-step guide to help you understand how to explore and interpret data using Pandas.
+This repository contains a complete project on **data analysis using Python Pandas** with the `movies_dataset.json` file. The analysis includes a variety of visualizations and a step-by-step guide to help you understand how to explore and interpret data using Pandas.
 
 ---
 
